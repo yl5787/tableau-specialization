@@ -4,8 +4,9 @@ This repository contains analyses on Tableau visualizations performed throughout
 
 Tableau Public profile: https://public.tableau.com/app/profile/yl5787
 
-### Courses (to be added)
+### Courses
 * [Fundamentals of Visualization with Tableau](https://github.com/yl5787/tableau-specialization/blob/main/Fundamentals%20of%20Visualization%20with%20Tableau.md)
 * [Essential Design Principles for Tableau](https://github.com/yl5787/tableau-specialization/blob/main/Essential%20Design%20Principles%20for%20Tableau.md)
 * [Visual Analytics with Tableau](https://github.com/yl5787/tableau-specialization/blob/main/Visual%20Analytics%20with%20Tableau.md)
 * [Creating Dashboards and Storytelling with Tableau](https://github.com/yl5787/tableau-specialization/blob/main/Creating%20Dashboards%20and%20Storytelling%20with%20Tableau.md)
+* [Data Visualization with Tableau Project](https://github.com/yl5787/tableau-specialization/blob/main/Data%20Visualization%20with%20Tableau%20Project.md)
